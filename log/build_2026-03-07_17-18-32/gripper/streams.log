@@ -1,0 +1,44 @@
+[1.839s] Invoking command in '/home/bajajauto/Dext_Hand/build/gripper': AMENT_PREFIX_PATH=/home/bajajauto/Dext_Hand/install/gripper_interfaces:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/bajajauto/Dext_Hand/install/gripper_interfaces LD_LIBRARY_PATH=/home/bajajauto/Dext_Hand/install/gripper_interfaces/lib:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/aarch64-linux-gnu:/opt/ros/humble/lib:/usr/local/cuda/lib64 PYTHONPATH=/home/bajajauto/Dext_Hand/build/gripper/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/bajajauto/Dext_Hand/install/gripper/lib/python3.10/site-packages:/home/bajajauto/Dext_Hand/install/gripper_interfaces/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --uninstall --editable --build-directory /home/bajajauto/Dext_Hand/build/gripper/build
+[2.341s] running develop
+[2.678s] Removing /home/bajajauto/Dext_Hand/install/gripper/lib/python3.10/site-packages/gripper.egg-link (link to .)
+[2.751s] Invoked command in '/home/bajajauto/Dext_Hand/build/gripper' returned '0': AMENT_PREFIX_PATH=/home/bajajauto/Dext_Hand/install/gripper_interfaces:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/bajajauto/Dext_Hand/install/gripper_interfaces LD_LIBRARY_PATH=/home/bajajauto/Dext_Hand/install/gripper_interfaces/lib:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/aarch64-linux-gnu:/opt/ros/humble/lib:/usr/local/cuda/lib64 PYTHONPATH=/home/bajajauto/Dext_Hand/build/gripper/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/bajajauto/Dext_Hand/install/gripper/lib/python3.10/site-packages:/home/bajajauto/Dext_Hand/install/gripper_interfaces/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --uninstall --editable --build-directory /home/bajajauto/Dext_Hand/build/gripper/build
+[2.755s] Invoking command in '/home/bajajauto/Dext_Hand/src/gripper': AMENT_PREFIX_PATH=/home/bajajauto/Dext_Hand/install/gripper_interfaces:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/bajajauto/Dext_Hand/install/gripper_interfaces LD_LIBRARY_PATH=/home/bajajauto/Dext_Hand/install/gripper_interfaces/lib:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/aarch64-linux-gnu:/opt/ros/humble/lib:/usr/local/cuda/lib64 PYTHONPATH=/home/bajajauto/Dext_Hand/build/gripper/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/bajajauto/Dext_Hand/install/gripper/lib/python3.10/site-packages:/home/bajajauto/Dext_Hand/install/gripper_interfaces/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/gripper build --build-base /home/bajajauto/Dext_Hand/build/gripper/build install --record /home/bajajauto/Dext_Hand/build/gripper/install.log --single-version-externally-managed install_data --force
+[3.219s] running egg_info
+[3.221s] writing ../../build/gripper/gripper.egg-info/PKG-INFO
+[3.221s] writing dependency_links to ../../build/gripper/gripper.egg-info/dependency_links.txt
+[3.222s] writing entry points to ../../build/gripper/gripper.egg-info/entry_points.txt
+[3.222s] writing requirements to ../../build/gripper/gripper.egg-info/requires.txt
+[3.222s] writing top-level names to ../../build/gripper/gripper.egg-info/top_level.txt
+[3.226s] reading manifest file '../../build/gripper/gripper.egg-info/SOURCES.txt'
+[3.230s] writing manifest file '../../build/gripper/gripper.egg-info/SOURCES.txt'
+[3.230s] running build
+[3.230s] running build_py
+[3.231s] copying gripper/tcp_rec_publisher.py -> /home/bajajauto/Dext_Hand/build/gripper/build/lib/gripper
+[3.233s] running install
+[3.233s] running install_lib
+[3.235s] copying /home/bajajauto/Dext_Hand/build/gripper/build/lib/gripper/gripper_action_server.py -> /home/bajajauto/Dext_Hand/install/gripper/lib/python3.10/site-packages/gripper
+[3.236s] copying /home/bajajauto/Dext_Hand/build/gripper/build/lib/gripper/tcp_data_subscriber.py -> /home/bajajauto/Dext_Hand/install/gripper/lib/python3.10/site-packages/gripper
+[3.237s] copying /home/bajajauto/Dext_Hand/build/gripper/build/lib/gripper/tcp_rec_publisher.py -> /home/bajajauto/Dext_Hand/install/gripper/lib/python3.10/site-packages/gripper
+[3.237s] copying /home/bajajauto/Dext_Hand/build/gripper/build/lib/gripper/gripper_driver.py -> /home/bajajauto/Dext_Hand/install/gripper/lib/python3.10/site-packages/gripper
+[3.237s] copying /home/bajajauto/Dext_Hand/build/gripper/build/lib/gripper/gripper_action_client.py -> /home/bajajauto/Dext_Hand/install/gripper/lib/python3.10/site-packages/gripper
+[3.238s] copying /home/bajajauto/Dext_Hand/build/gripper/build/lib/gripper/__init__.py -> /home/bajajauto/Dext_Hand/install/gripper/lib/python3.10/site-packages/gripper
+[3.238s] copying /home/bajajauto/Dext_Hand/build/gripper/build/lib/gripper/gripper_position_publisher.py -> /home/bajajauto/Dext_Hand/install/gripper/lib/python3.10/site-packages/gripper
+[3.240s] byte-compiling /home/bajajauto/Dext_Hand/install/gripper/lib/python3.10/site-packages/gripper/gripper_action_server.py to gripper_action_server.cpython-310.pyc
+[3.241s] byte-compiling /home/bajajauto/Dext_Hand/install/gripper/lib/python3.10/site-packages/gripper/tcp_data_subscriber.py to tcp_data_subscriber.cpython-310.pyc
+[3.242s] byte-compiling /home/bajajauto/Dext_Hand/install/gripper/lib/python3.10/site-packages/gripper/tcp_rec_publisher.py to tcp_rec_publisher.cpython-310.pyc
+[3.242s] byte-compiling /home/bajajauto/Dext_Hand/install/gripper/lib/python3.10/site-packages/gripper/gripper_driver.py to gripper_driver.cpython-310.pyc
+[3.244s] byte-compiling /home/bajajauto/Dext_Hand/install/gripper/lib/python3.10/site-packages/gripper/gripper_action_client.py to gripper_action_client.cpython-310.pyc
+[3.245s] byte-compiling /home/bajajauto/Dext_Hand/install/gripper/lib/python3.10/site-packages/gripper/__init__.py to __init__.cpython-310.pyc
+[3.245s] byte-compiling /home/bajajauto/Dext_Hand/install/gripper/lib/python3.10/site-packages/gripper/gripper_position_publisher.py to gripper_position_publisher.cpython-310.pyc
+[3.246s] running install_data
+[3.247s] copying resource/gripper -> /home/bajajauto/Dext_Hand/install/gripper/share/ament_index/resource_index/packages
+[3.248s] copying package.xml -> /home/bajajauto/Dext_Hand/install/gripper/share/gripper
+[3.248s] running install_egg_info
+[3.251s] Copying ../../build/gripper/gripper.egg-info to /home/bajajauto/Dext_Hand/install/gripper/lib/python3.10/site-packages/gripper-0.0.0-py3.10.egg-info
+[3.254s] running install_scripts
+[3.291s] Installing gripper_action_client script to /home/bajajauto/Dext_Hand/install/gripper/lib/gripper
+[3.292s] Installing gripper_action_server script to /home/bajajauto/Dext_Hand/install/gripper/lib/gripper
+[3.292s] Installing gripper_position_publisher script to /home/bajajauto/Dext_Hand/install/gripper/lib/gripper
+[3.292s] Installing tcp_rec_publisher script to /home/bajajauto/Dext_Hand/install/gripper/lib/gripper
+[3.293s] writing list of installed files to '/home/bajajauto/Dext_Hand/build/gripper/install.log'
+[3.360s] Invoked command in '/home/bajajauto/Dext_Hand/src/gripper' returned '0': AMENT_PREFIX_PATH=/home/bajajauto/Dext_Hand/install/gripper_interfaces:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/bajajauto/Dext_Hand/install/gripper_interfaces LD_LIBRARY_PATH=/home/bajajauto/Dext_Hand/install/gripper_interfaces/lib:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/aarch64-linux-gnu:/opt/ros/humble/lib:/usr/local/cuda/lib64 PYTHONPATH=/home/bajajauto/Dext_Hand/build/gripper/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/bajajauto/Dext_Hand/install/gripper/lib/python3.10/site-packages:/home/bajajauto/Dext_Hand/install/gripper_interfaces/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/gripper build --build-base /home/bajajauto/Dext_Hand/build/gripper/build install --record /home/bajajauto/Dext_Hand/build/gripper/install.log --single-version-externally-managed install_data --force

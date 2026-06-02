@@ -1,0 +1,144 @@
+-- Found ament_cmake: 1.3.12 (/opt/ros/humble/share/ament_cmake/cmake)
+-- Override CMake install command with custom implementation using symlinks instead of copying resources
+-- Found rosidl_default_generators: 1.2.0 (/opt/ros/humble/share/rosidl_default_generators/cmake)
+-- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+-- Found rosidl_adapter: 3.1.8 (/opt/ros/humble/share/rosidl_adapter/cmake)
+-- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+-- Found ament_cmake_ros: 0.10.0 (/opt/ros/humble/share/ament_cmake_ros/cmake)
+-- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+-- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+-- Found python_cmake_module: 0.10.0 (/opt/ros/humble/share/python_cmake_module/cmake)
+-- Using PYTHON_EXECUTABLE: /usr/bin/python3
+-- Using PYTHON_INCLUDE_DIRS: /usr/include/python3.10
+-- Using PYTHON_LIBRARIES: /usr/lib/aarch64-linux-gnu/libpython3.10.so
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/bajajauto/Dext_Hand/build/gripper_interfaces
+[35m[1mConsolidate compiler generated dependencies of target gripper_interfaces__rosidl_generator_c[0m
+[  3%] Built target gripper_interfaces__cpp
+[ 12%] Built target gripper_interfaces__rosidl_generator_c
+[ 12%] Built target ament_cmake_python_symlink_gripper_interfaces
+[35m[1mConsolidate compiler generated dependencies of target gripper_interfaces__rosidl_typesupport_fastrtps_cpp[0m
+[35m[1mConsolidate compiler generated dependencies of target gripper_interfaces__rosidl_typesupport_cpp[0m
+[35m[1mConsolidate compiler generated dependencies of target gripper_interfaces__rosidl_typesupport_introspection_cpp[0m
+[ 22%] Built target gripper_interfaces__rosidl_typesupport_cpp
+[35m[1mConsolidate compiler generated dependencies of target gripper_interfaces__rosidl_typesupport_introspection_c[0m
+[ 41%] Built target gripper_interfaces__rosidl_typesupport_fastrtps_cpp
+[ 41%] Built target gripper_interfaces__rosidl_typesupport_introspection_cpp
+[35m[1mConsolidate compiler generated dependencies of target gripper_interfaces__rosidl_typesupport_fastrtps_c[0m
+[35m[1mConsolidate compiler generated dependencies of target gripper_interfaces__rosidl_typesupport_c[0m
+[ 51%] Built target gripper_interfaces__rosidl_typesupport_introspection_c
+[ 61%] Built target gripper_interfaces__rosidl_typesupport_c
+[ 70%] Built target gripper_interfaces__rosidl_typesupport_fastrtps_c
+[ 70%] Built target gripper_interfaces
+[ 74%] Built target gripper_interfaces__py
+[35m[1mConsolidate compiler generated dependencies of target gripper_interfaces__rosidl_generator_py[0m
+[ 80%] Built target gripper_interfaces__rosidl_generator_py
+[35m[1mConsolidate compiler generated dependencies of target gripper_interfaces__rosidl_typesupport_introspection_c__pyext[0m
+[35m[1mConsolidate compiler generated dependencies of target gripper_interfaces__rosidl_typesupport_fastrtps_c__pyext[0m
+[35m[1mConsolidate compiler generated dependencies of target gripper_interfaces__rosidl_typesupport_c__pyext[0m
+[ 87%] Built target gripper_interfaces__rosidl_typesupport_fastrtps_c__pyext
+[ 93%] Built target gripper_interfaces__rosidl_typesupport_c__pyext
+[100%] Built target gripper_interfaces__rosidl_typesupport_introspection_c__pyext
+running egg_info
+writing gripper_interfaces.egg-info/PKG-INFO
+writing dependency_links to gripper_interfaces.egg-info/dependency_links.txt
+writing top-level names to gripper_interfaces.egg-info/top_level.txt
+reading manifest file 'gripper_interfaces.egg-info/SOURCES.txt'
+writing manifest file 'gripper_interfaces.egg-info/SOURCES.txt'
+[100%] Built target ament_cmake_python_build_gripper_interfaces_egg
+-- Install configuration: ""
+-- Execute custom install script
+-- Up-to-date symlink: /home/bajajauto/Dext_Hand/install/gripper_interfaces/share/ament_index/resource_index/rosidl_interfaces/gripper_interfaces
+-- Up-to-date symlink: /home/bajajauto/Dext_Hand/install/gripper_interfaces/include/gripper_interfaces/gripper_interfaces/action/detail/move_gripper__functions.h
+-- Up-to-date symlink: /home/bajajauto/Dext_Hand/install/gripper_interfaces/include/gripper_interfaces/gripper_interfaces/action/detail/move_gripper__struct.h
+-- Up-to-date symlink: /home/bajajauto/Dext_Hand/install/gripper_interfaces/include/gripper_interfaces/gripper_interfaces/action/detail/move_gripper__type_support.h
+-- Up-to-date symlink: /home/bajajauto/Dext_Hand/install/gripper_interfaces/include/gripper_interfaces/gripper_interfaces/action/move_gripper.h
+-- Up-to-date symlink: /home/bajajauto/Dext_Hand/install/gripper_interfaces/include/gripper_interfaces/gripper_interfaces/msg/rosidl_generator_c__visibility_control.h
+-- Up-to-date symlink: /home/bajajauto/Dext_Hand/install/gripper_interfaces/share/gripper_interfaces/environment/library_path.sh
+-- Up-to-date symlink: /home/bajajauto/Dext_Hand/install/gripper_interfaces/share/gripper_interfaces/environment/library_path.dsv
+-- Up-to-date symlink: /home/bajajauto/Dext_Hand/install/gripper_interfaces/include/gripper_interfaces/gripper_interfaces/action/detail/move_gripper__rosidl_typesupport_fastrtps_c.h
+-- Up-to-date symlink: /home/bajajauto/Dext_Hand/install/gripper_interfaces/include/gripper_interfaces/gripper_interfaces/msg/rosidl_typesupport_fastrtps_c__visibility_control.h
+-- Up-to-date symlink: /home/bajajauto/Dext_Hand/install/gripper_interfaces/include/gripper_interfaces/gripper_interfaces/action/detail/move_gripper__rosidl_typesupport_introspection_c.h
+-- Up-to-date symlink: /home/bajajauto/Dext_Hand/install/gripper_interfaces/include/gripper_interfaces/gripper_interfaces/msg/rosidl_typesupport_introspection_c__visibility_control.h
+-- Up-to-date symlink: /home/bajajauto/Dext_Hand/install/gripper_interfaces/include/gripper_interfaces/gripper_interfaces/action/detail/move_gripper__builder.hpp
+-- Up-to-date symlink: /home/bajajauto/Dext_Hand/install/gripper_interfaces/include/gripper_interfaces/gripper_interfaces/action/detail/move_gripper__struct.hpp
+-- Up-to-date symlink: /home/bajajauto/Dext_Hand/install/gripper_interfaces/include/gripper_interfaces/gripper_interfaces/action/detail/move_gripper__traits.hpp
+-- Up-to-date symlink: /home/bajajauto/Dext_Hand/install/gripper_interfaces/include/gripper_interfaces/gripper_interfaces/action/detail/move_gripper__type_support.hpp
+-- Up-to-date symlink: /home/bajajauto/Dext_Hand/install/gripper_interfaces/include/gripper_interfaces/gripper_interfaces/action/move_gripper.hpp
+-- Up-to-date symlink: /home/bajajauto/Dext_Hand/install/gripper_interfaces/include/gripper_interfaces/gripper_interfaces/msg/rosidl_generator_cpp__visibility_control.hpp
+-- Up-to-date symlink: /home/bajajauto/Dext_Hand/install/gripper_interfaces/include/gripper_interfaces/gripper_interfaces/action/detail/move_gripper__rosidl_typesupport_fastrtps_cpp.hpp
+-- Up-to-date symlink: /home/bajajauto/Dext_Hand/install/gripper_interfaces/include/gripper_interfaces/gripper_interfaces/msg/rosidl_typesupport_fastrtps_cpp__visibility_control.h
+-- Up-to-date symlink: /home/bajajauto/Dext_Hand/install/gripper_interfaces/include/gripper_interfaces/gripper_interfaces/action/detail/move_gripper__rosidl_typesupport_introspection_cpp.hpp
+-- Up-to-date symlink: /home/bajajauto/Dext_Hand/install/gripper_interfaces/share/gripper_interfaces/environment/pythonpath.sh
+-- Up-to-date symlink: /home/bajajauto/Dext_Hand/install/gripper_interfaces/share/gripper_interfaces/environment/pythonpath.dsv
+-- Up-to-date symlink: /home/bajajauto/Dext_Hand/install/gripper_interfaces/local/lib/python3.10/dist-packages/gripper_interfaces-0.0.0-py3.10.egg-info/PKG-INFO
+-- Up-to-date symlink: /home/bajajauto/Dext_Hand/install/gripper_interfaces/local/lib/python3.10/dist-packages/gripper_interfaces-0.0.0-py3.10.egg-info/SOURCES.txt
+-- Up-to-date symlink: /home/bajajauto/Dext_Hand/install/gripper_interfaces/local/lib/python3.10/dist-packages/gripper_interfaces-0.0.0-py3.10.egg-info/dependency_links.txt
+-- Up-to-date symlink: /home/bajajauto/Dext_Hand/install/gripper_interfaces/local/lib/python3.10/dist-packages/gripper_interfaces-0.0.0-py3.10.egg-info/top_level.txt
+-- Up-to-date symlink: /home/bajajauto/Dext_Hand/install/gripper_interfaces/local/lib/python3.10/dist-packages/gripper_interfaces/__init__.py
+-- Up-to-date symlink: /home/bajajauto/Dext_Hand/install/gripper_interfaces/local/lib/python3.10/dist-packages/gripper_interfaces/_gripper_interfaces_s.ep.rosidl_typesupport_c.c
+-- Up-to-date symlink: /home/bajajauto/Dext_Hand/install/gripper_interfaces/local/lib/python3.10/dist-packages/gripper_interfaces/_gripper_interfaces_s.ep.rosidl_typesupport_fastrtps_c.c
+-- Up-to-date symlink: /home/bajajauto/Dext_Hand/install/gripper_interfaces/local/lib/python3.10/dist-packages/gripper_interfaces/_gripper_interfaces_s.ep.rosidl_typesupport_introspection_c.c
+-- Up-to-date symlink: /home/bajajauto/Dext_Hand/install/gripper_interfaces/local/lib/python3.10/dist-packages/gripper_interfaces/action/__init__.py
+-- Up-to-date symlink: /home/bajajauto/Dext_Hand/install/gripper_interfaces/local/lib/python3.10/dist-packages/gripper_interfaces/action/_move_gripper.py
+-- Up-to-date symlink: /home/bajajauto/Dext_Hand/install/gripper_interfaces/local/lib/python3.10/dist-packages/gripper_interfaces/action/_move_gripper_s.c
+-- Up-to-date symlink: /home/bajajauto/Dext_Hand/install/gripper_interfaces/local/lib/python3.10/dist-packages/gripper_interfaces/gripper_interfaces_s__rosidl_typesupport_c.cpython-310-aarch64-linux-gnu.so
+-- Up-to-date symlink: /home/bajajauto/Dext_Hand/install/gripper_interfaces/local/lib/python3.10/dist-packages/gripper_interfaces/gripper_interfaces_s__rosidl_typesupport_fastrtps_c.cpython-310-aarch64-linux-gnu.so
+-- Up-to-date symlink: /home/bajajauto/Dext_Hand/install/gripper_interfaces/local/lib/python3.10/dist-packages/gripper_interfaces/gripper_interfaces_s__rosidl_typesupport_introspection_c.cpython-310-aarch64-linux-gnu.so
+-- Up-to-date symlink: /home/bajajauto/Dext_Hand/install/gripper_interfaces/local/lib/python3.10/dist-packages/gripper_interfaces/libgripper_interfaces__rosidl_generator_py.so
+-- Up-to-date symlink: /home/bajajauto/Dext_Hand/install/gripper_interfaces/local/lib/python3.10/dist-packages/gripper_interfaces/gripper_interfaces_s__rosidl_typesupport_fastrtps_c.cpython-310-aarch64-linux-gnu.so
+-- Up-to-date symlink: /home/bajajauto/Dext_Hand/install/gripper_interfaces/local/lib/python3.10/dist-packages/gripper_interfaces/gripper_interfaces_s__rosidl_typesupport_introspection_c.cpython-310-aarch64-linux-gnu.so
+-- Up-to-date symlink: /home/bajajauto/Dext_Hand/install/gripper_interfaces/local/lib/python3.10/dist-packages/gripper_interfaces/gripper_interfaces_s__rosidl_typesupport_c.cpython-310-aarch64-linux-gnu.so
+-- Up-to-date symlink: /home/bajajauto/Dext_Hand/install/gripper_interfaces/share/gripper_interfaces/action/MoveGripper.idl
+-- Up-to-date symlink: /home/bajajauto/Dext_Hand/install/gripper_interfaces/share/gripper_interfaces/action/MoveGripper.action
+-- Up-to-date symlink: /home/bajajauto/Dext_Hand/install/gripper_interfaces/share/ament_index/resource_index/package_run_dependencies/gripper_interfaces
+-- Up-to-date symlink: /home/bajajauto/Dext_Hand/install/gripper_interfaces/share/ament_index/resource_index/parent_prefix_path/gripper_interfaces
+-- Up-to-date symlink: /home/bajajauto/Dext_Hand/install/gripper_interfaces/share/gripper_interfaces/environment/ament_prefix_path.sh
+-- Up-to-date symlink: /home/bajajauto/Dext_Hand/install/gripper_interfaces/share/gripper_interfaces/environment/ament_prefix_path.dsv
+-- Up-to-date symlink: /home/bajajauto/Dext_Hand/install/gripper_interfaces/share/gripper_interfaces/environment/path.sh
+-- Up-to-date symlink: /home/bajajauto/Dext_Hand/install/gripper_interfaces/share/gripper_interfaces/environment/path.dsv
+-- Up-to-date symlink: /home/bajajauto/Dext_Hand/install/gripper_interfaces/share/gripper_interfaces/local_setup.bash
+-- Up-to-date symlink: /home/bajajauto/Dext_Hand/install/gripper_interfaces/share/gripper_interfaces/local_setup.sh
+-- Up-to-date symlink: /home/bajajauto/Dext_Hand/install/gripper_interfaces/share/gripper_interfaces/local_setup.zsh
+-- Up-to-date symlink: /home/bajajauto/Dext_Hand/install/gripper_interfaces/share/gripper_interfaces/local_setup.dsv
+-- Symlinking: /home/bajajauto/Dext_Hand/install/gripper_interfaces/share/gripper_interfaces/package.dsv
+-- Up-to-date symlink: /home/bajajauto/Dext_Hand/install/gripper_interfaces/share/ament_index/resource_index/packages/gripper_interfaces
+-- Up-to-date symlink: /home/bajajauto/Dext_Hand/install/gripper_interfaces/share/gripper_interfaces/cmake/rosidl_cmake-extras.cmake
+-- Up-to-date symlink: /home/bajajauto/Dext_Hand/install/gripper_interfaces/share/gripper_interfaces/cmake/ament_cmake_export_dependencies-extras.cmake
+-- Up-to-date symlink: /home/bajajauto/Dext_Hand/install/gripper_interfaces/share/gripper_interfaces/cmake/ament_cmake_export_include_directories-extras.cmake
+-- Up-to-date symlink: /home/bajajauto/Dext_Hand/install/gripper_interfaces/share/gripper_interfaces/cmake/ament_cmake_export_libraries-extras.cmake
+-- Up-to-date symlink: /home/bajajauto/Dext_Hand/install/gripper_interfaces/share/gripper_interfaces/cmake/ament_cmake_export_targets-extras.cmake
+-- Up-to-date symlink: /home/bajajauto/Dext_Hand/install/gripper_interfaces/share/gripper_interfaces/cmake/rosidl_cmake_export_typesupport_targets-extras.cmake
+-- Up-to-date symlink: /home/bajajauto/Dext_Hand/install/gripper_interfaces/share/gripper_interfaces/cmake/rosidl_cmake_export_typesupport_libraries-extras.cmake
+-- Up-to-date symlink: /home/bajajauto/Dext_Hand/install/gripper_interfaces/share/gripper_interfaces/cmake/gripper_interfacesConfig.cmake
+-- Up-to-date symlink: /home/bajajauto/Dext_Hand/install/gripper_interfaces/share/gripper_interfaces/cmake/gripper_interfacesConfig-version.cmake
+-- Up-to-date symlink: /home/bajajauto/Dext_Hand/install/gripper_interfaces/share/gripper_interfaces/package.xml
+-- Up-to-date: /home/bajajauto/Dext_Hand/install/gripper_interfaces/lib/libgripper_interfaces__rosidl_generator_c.so
+-- Up-to-date: /home/bajajauto/Dext_Hand/install/gripper_interfaces/lib/libgripper_interfaces__rosidl_typesupport_fastrtps_c.so
+-- Up-to-date: /home/bajajauto/Dext_Hand/install/gripper_interfaces/lib/libgripper_interfaces__rosidl_typesupport_introspection_c.so
+-- Up-to-date: /home/bajajauto/Dext_Hand/install/gripper_interfaces/lib/libgripper_interfaces__rosidl_typesupport_c.so
+-- Up-to-date: /home/bajajauto/Dext_Hand/install/gripper_interfaces/lib/libgripper_interfaces__rosidl_typesupport_fastrtps_cpp.so
+-- Up-to-date: /home/bajajauto/Dext_Hand/install/gripper_interfaces/lib/libgripper_interfaces__rosidl_typesupport_introspection_cpp.so
+-- Up-to-date: /home/bajajauto/Dext_Hand/install/gripper_interfaces/lib/libgripper_interfaces__rosidl_typesupport_cpp.so
+Listing '/home/bajajauto/Dext_Hand/install/gripper_interfaces/local/lib/python3.10/dist-packages/gripper_interfaces'...
+Compiling '/home/bajajauto/Dext_Hand/install/gripper_interfaces/local/lib/python3.10/dist-packages/gripper_interfaces/__init__.py'...
+Listing '/home/bajajauto/Dext_Hand/install/gripper_interfaces/local/lib/python3.10/dist-packages/gripper_interfaces/action'...
+-- Up-to-date: /home/bajajauto/Dext_Hand/install/gripper_interfaces/lib/libgripper_interfaces__rosidl_generator_py.so
+-- Up-to-date: /home/bajajauto/Dext_Hand/install/gripper_interfaces/share/gripper_interfaces/cmake/export_gripper_interfaces__rosidl_generator_cExport.cmake
+-- Up-to-date: /home/bajajauto/Dext_Hand/install/gripper_interfaces/share/gripper_interfaces/cmake/export_gripper_interfaces__rosidl_generator_cExport-noconfig.cmake
+-- Up-to-date: /home/bajajauto/Dext_Hand/install/gripper_interfaces/share/gripper_interfaces/cmake/export_gripper_interfaces__rosidl_typesupport_fastrtps_cExport.cmake
+-- Up-to-date: /home/bajajauto/Dext_Hand/install/gripper_interfaces/share/gripper_interfaces/cmake/export_gripper_interfaces__rosidl_typesupport_fastrtps_cExport-noconfig.cmake
+-- Up-to-date: /home/bajajauto/Dext_Hand/install/gripper_interfaces/share/gripper_interfaces/cmake/gripper_interfaces__rosidl_typesupport_introspection_cExport.cmake
+-- Up-to-date: /home/bajajauto/Dext_Hand/install/gripper_interfaces/share/gripper_interfaces/cmake/gripper_interfaces__rosidl_typesupport_introspection_cExport-noconfig.cmake
+-- Up-to-date: /home/bajajauto/Dext_Hand/install/gripper_interfaces/share/gripper_interfaces/cmake/gripper_interfaces__rosidl_typesupport_cExport.cmake
+-- Up-to-date: /home/bajajauto/Dext_Hand/install/gripper_interfaces/share/gripper_interfaces/cmake/gripper_interfaces__rosidl_typesupport_cExport-noconfig.cmake
+-- Up-to-date: /home/bajajauto/Dext_Hand/install/gripper_interfaces/share/gripper_interfaces/cmake/export_gripper_interfaces__rosidl_generator_cppExport.cmake
+-- Up-to-date: /home/bajajauto/Dext_Hand/install/gripper_interfaces/share/gripper_interfaces/cmake/export_gripper_interfaces__rosidl_typesupport_fastrtps_cppExport.cmake
+-- Up-to-date: /home/bajajauto/Dext_Hand/install/gripper_interfaces/share/gripper_interfaces/cmake/export_gripper_interfaces__rosidl_typesupport_fastrtps_cppExport-noconfig.cmake
+-- Up-to-date: /home/bajajauto/Dext_Hand/install/gripper_interfaces/share/gripper_interfaces/cmake/gripper_interfaces__rosidl_typesupport_introspection_cppExport.cmake
+-- Up-to-date: /home/bajajauto/Dext_Hand/install/gripper_interfaces/share/gripper_interfaces/cmake/gripper_interfaces__rosidl_typesupport_introspection_cppExport-noconfig.cmake
+-- Up-to-date: /home/bajajauto/Dext_Hand/install/gripper_interfaces/share/gripper_interfaces/cmake/gripper_interfaces__rosidl_typesupport_cppExport.cmake
+-- Up-to-date: /home/bajajauto/Dext_Hand/install/gripper_interfaces/share/gripper_interfaces/cmake/gripper_interfaces__rosidl_typesupport_cppExport-noconfig.cmake
+-- Up-to-date: /home/bajajauto/Dext_Hand/install/gripper_interfaces/share/gripper_interfaces/cmake/export_gripper_interfaces__rosidl_generator_pyExport.cmake
+-- Up-to-date: /home/bajajauto/Dext_Hand/install/gripper_interfaces/share/gripper_interfaces/cmake/export_gripper_interfaces__rosidl_generator_pyExport-noconfig.cmake
