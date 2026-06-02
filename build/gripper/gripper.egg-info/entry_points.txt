@@ -1,0 +1,6 @@
+[console_scripts]
+gripper_action_client = gripper.gripper_action_client:main
+gripper_action_server = gripper.gripper_action_server:main
+gripper_position_publisher = gripper.gripper_position_publisher:main
+tcp_rec_publisher = gripper.tcp_rec_publisher:main
+
