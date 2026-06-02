@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<?xml-model href="http://download.ros.org/schema/package_format3.xsd" schematypens="http://www.w3.org/2001/XMLSchema"?>
+<package format="3">
+  <name>gripper</name>
+  <version>0.0.0</version>
+  <description>Gripper control node</description>
+  <maintainer email="bajajauto@todo.todo">bajajauto</maintainer>
+  <license>TODO</license>
+
+  <buildtool_depend>ament_python</buildtool_depend>
+
+  <depend>rclpy</depend>
+  <depend>action_msgs</depend>
+  <depend>gripper_interfaces</depend>
+
+  <exec_depend>rosidl_default_runtime</exec_depend>
+
+  <export>
+    <build_type>ament_python</build_type>
+  </export>
+</package>
