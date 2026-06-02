@@ -1,0 +1,8 @@
+# Goal
+float64[12] target_positions
+---
+# Result
+bool success
+---
+# Feedback
+float64[12] current_positions
