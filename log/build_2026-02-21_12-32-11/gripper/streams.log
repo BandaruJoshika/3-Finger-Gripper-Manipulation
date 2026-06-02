@@ -1,0 +1,22 @@
+[1.287s] Invoking command in '/home/bajajauto/Dext_Hand/build/gripper': LD_LIBRARY_PATH=/home/bajajauto/Dext_Hand/install/gripper_interfaces/lib:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/aarch64-linux-gnu:/opt/ros/humble/lib:/usr/local/cuda/lib64 PYTHONPATH=/home/bajajauto/Dext_Hand/build/gripper/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/bajajauto/Dext_Hand/install/gripper/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/bajajauto/Dext_Hand/build/gripper/build --no-deps symlink_data --force
+[1.801s] running develop
+[2.121s] running egg_info
+[2.121s] writing gripper.egg-info/PKG-INFO
+[2.121s] writing dependency_links to gripper.egg-info/dependency_links.txt
+[2.122s] writing entry points to gripper.egg-info/entry_points.txt
+[2.122s] writing requirements to gripper.egg-info/requires.txt
+[2.122s] writing top-level names to gripper.egg-info/top_level.txt
+[2.126s] reading manifest file 'gripper.egg-info/SOURCES.txt'
+[2.127s] writing manifest file 'gripper.egg-info/SOURCES.txt'
+[2.130s] running build_ext
+[2.130s] Creating /home/bajajauto/Dext_Hand/install/gripper/lib/python3.10/site-packages/gripper.egg-link (link to .)
+[2.132s] Installing gripper_action_client script to /home/bajajauto/Dext_Hand/install/gripper/lib/gripper
+[2.132s] Installing gripper_action_server script to /home/bajajauto/Dext_Hand/install/gripper/lib/gripper
+[2.132s] Installing gripper_position_publisher script to /home/bajajauto/Dext_Hand/install/gripper/lib/gripper
+[2.133s] Installing tcp_rec_publisher script to /home/bajajauto/Dext_Hand/install/gripper/lib/gripper
+[2.133s] 
+[2.133s] Installed /home/bajajauto/Dext_Hand/build/gripper
+[2.133s] running symlink_data
+[2.133s] symbolically linking /home/bajajauto/Dext_Hand/build/gripper/resource/gripper -> /home/bajajauto/Dext_Hand/install/gripper/share/ament_index/resource_index/packages
+[2.134s] symbolically linking /home/bajajauto/Dext_Hand/build/gripper/package.xml -> /home/bajajauto/Dext_Hand/install/gripper/share/gripper
+[2.213s] Invoked command in '/home/bajajauto/Dext_Hand/build/gripper' returned '0': LD_LIBRARY_PATH=/home/bajajauto/Dext_Hand/install/gripper_interfaces/lib:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/aarch64-linux-gnu:/opt/ros/humble/lib:/usr/local/cuda/lib64 PYTHONPATH=/home/bajajauto/Dext_Hand/build/gripper/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/bajajauto/Dext_Hand/install/gripper/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/bajajauto/Dext_Hand/build/gripper/build --no-deps symlink_data --force

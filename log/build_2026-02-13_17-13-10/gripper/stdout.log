@@ -1,0 +1,24 @@
+running develop
+running egg_info
+creating gripper.egg-info
+writing gripper.egg-info/PKG-INFO
+writing dependency_links to gripper.egg-info/dependency_links.txt
+writing entry points to gripper.egg-info/entry_points.txt
+writing requirements to gripper.egg-info/requires.txt
+writing top-level names to gripper.egg-info/top_level.txt
+writing manifest file 'gripper.egg-info/SOURCES.txt'
+reading manifest file 'gripper.egg-info/SOURCES.txt'
+writing manifest file 'gripper.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/bajajauto/Dext_Hand/install/gripper/lib/python3.10/site-packages/gripper.egg-link (link to .)
+Installing gripper_action_client script to /home/bajajauto/Dext_Hand/install/gripper/lib/gripper
+Installing gripper_action_server script to /home/bajajauto/Dext_Hand/install/gripper/lib/gripper
+Installing gripper_position_publisher script to /home/bajajauto/Dext_Hand/install/gripper/lib/gripper
+
+Installed /home/bajajauto/Dext_Hand/build/gripper
+running symlink_data
+creating /home/bajajauto/Dext_Hand/install/gripper/share/ament_index
+creating /home/bajajauto/Dext_Hand/install/gripper/share/ament_index/resource_index
+creating /home/bajajauto/Dext_Hand/install/gripper/share/ament_index/resource_index/packages
+symbolically linking /home/bajajauto/Dext_Hand/build/gripper/resource/gripper -> /home/bajajauto/Dext_Hand/install/gripper/share/ament_index/resource_index/packages
+symbolically linking /home/bajajauto/Dext_Hand/build/gripper/package.xml -> /home/bajajauto/Dext_Hand/install/gripper/share/gripper
